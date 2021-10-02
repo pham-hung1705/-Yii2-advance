@@ -1,0 +1,21 @@
+.container {
+  margin: 5px;
+  width: 180px;
+  border: 2px solid;
+  padding: 5px;
+}
+button {
+  color: blue;
+  margin: 6px;
+  width: 30px;
+  height: 30px;
+}
+.result {
+  background-color: rgba(192, 192, 192, 0.527);
+  color: blue;
+  font-size: 20px;
+  height: 30px;
+  width: 160px;
+  margin: 5px;
+  text-align: right;
+}
