@@ -1,0 +1,15 @@
+.my-Area {
+  width: 250px;
+  height: 190px;
+  border: 1px solid black;
+}
+.myTanks{
+  width: 19px;
+  position: absolute;
+}
+
+.btn-align {
+  margin: 2%;
+  float: left;
+  text-align: center;
+}
