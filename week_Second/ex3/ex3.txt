@@ -1,0 +1,9 @@
+Thiết kế giao diện như hình đính kèm:
+- Màn hình hiển thị số được chọn và kết quả
+- Các button số từ 0 đến 9
+- Các button phép tính: +, -, x, /... (Có thể thêm các phép tính khác nếu muốn)
+- Button thực hiện phép tính: '='
+
+Mô tả chức năng:
+- Người dùng thực hiện tính toán bằng cách nhấn vào button số, rồi nhấn vào button phép tính, sau đó nhấn vào button số. Cuối cùng người dùng nhấn vào button '=' để thực hiện tính toán.
+- Khi người dùng nhấn vào button '=' thì máy tính thwucj hiện tính toán và hiển thị kết quả.
